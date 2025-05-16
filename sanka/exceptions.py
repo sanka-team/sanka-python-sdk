@@ -1,0 +1,2 @@
+class SankaAPIError(Exception):
+    pass 
